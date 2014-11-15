@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1371623212 source:c:\users\datmoka\documents\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<iostream>
+	<string>
+	<sstream>
+
+1372634654 source:c:\users\datmoka\dropbox\pong\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<iostream>
+	<string>
+	<sstream>
+
+1365785928 c:\users\datmoka\dropbox\pong\screens.hpp
+	"screen.h"
+	"mainmenu.hpp"
+	"game.hpp"
+
+1365786504 c:\users\datmoka\dropbox\pong\screen.h
+
+1371964622 c:\users\datmoka\dropbox\pong\mainmenu.hpp
+	<iostream>
+	"screen.h"
+
+1371964978 c:\users\datmoka\dropbox\pong\game.hpp
+	<iostream>
+	<sstream>
+	<string>
+	"screen.h"
+

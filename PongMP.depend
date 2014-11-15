@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1372992688 source:c:\users\datmoka\dropbox\pong\mainmp.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<SFML/Network.hpp>
+	<iostream>
+	<string>
+	<sstream>
+

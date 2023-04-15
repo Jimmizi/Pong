@@ -8,6 +8,6 @@ In order to get multiplayer working, open one instance and set it to host the ga
 WS or Up and Down to control. 
 
 
-Provided as is. Please credit if you use the code.
+Provided as is.
 
 
